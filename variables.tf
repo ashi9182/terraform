@@ -11,4 +11,5 @@ variable "vpc_id" {
 variable "ami_id" {
     type = string
     default = "ami-09e67e426f25ce0d7"
+    
 }

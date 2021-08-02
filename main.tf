@@ -13,7 +13,7 @@ terraform {
   backend "s3" {
     bucket = "ashish-bucket9183"
     key    = "tfstate/"
-    region = "us-east-1"
+    region = "ap-south-1"
   }
 }
 
